@@ -1,8 +1,10 @@
 module.exports = {
   title: 'Test Docs',
   url: 'https://saiMokshith305.github.io',
-  baseUrl: '/another-internal-docs/',
+  baseUrl: '/after-docs/',
   onBrokenLinks: 'throw',
+  organizationName: 'saiMokshith305', // GitHub org/user name
+    projectName: 'after-docs',
   onBrokenMarkdownLinks: 'warn',
   presets: [
     [
