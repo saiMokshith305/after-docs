@@ -1,0 +1,22 @@
+{
+  "id": "index",
+  "title": "Introduction",
+  "description": "Welcome to the Company Documentation.",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/another-internal-docs/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "index",
+    "title": "Introduction"
+  },
+  "sidebar": "docs",
+  "next": {
+    "title": "System Overview",
+    "permalink": "/another-internal-docs/system-overview"
+  }
+}

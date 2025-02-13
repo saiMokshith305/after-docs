@@ -1,0 +1,98 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/another-internal-docs/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/another-internal-docs/",
+          "mainDocId": "index",
+          "docs": [
+            {
+              "id": "appendix",
+              "path": "/another-internal-docs/appendix",
+              "sidebar": "docs"
+            },
+            {
+              "id": "campaign-monitor",
+              "path": "/another-internal-docs/campaign-monitor",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor",
+              "path": "/another-internal-docs/how-to-add-a-new-field-to-google-sheet-and-update-make-campaign-monitor",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-adjust-email-automation-delay",
+              "path": "/another-internal-docs/how-to-adjust-email-automation-delay",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-modify-collection-date",
+              "path": "/another-internal-docs/how-to-modify-collection-date",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-modify-email-automation",
+              "path": "/another-internal-docs/how-to-modify-email-automation",
+              "sidebar": "docs"
+            },
+            {
+              "id": "how-to-modify-or-add-automations",
+              "path": "/another-internal-docs/how-to-modify-or-add-automations",
+              "sidebar": "docs"
+            },
+            {
+              "id": "index",
+              "path": "/another-internal-docs/",
+              "sidebar": "docs"
+            },
+            {
+              "id": "maintenance",
+              "path": "/another-internal-docs/maintenance",
+              "sidebar": "docs"
+            },
+            {
+              "id": "make",
+              "path": "/another-internal-docs/make",
+              "sidebar": "docs"
+            },
+            {
+              "id": "squarespace",
+              "path": "/another-internal-docs/squarespace",
+              "sidebar": "docs"
+            },
+            {
+              "id": "system-overview",
+              "path": "/another-internal-docs/system-overview",
+              "sidebar": "docs"
+            },
+            {
+              "id": "troubleshooting",
+              "path": "/another-internal-docs/troubleshooting",
+              "sidebar": "docs"
+            },
+            {
+              "id": "workflow-and-automations",
+              "path": "/another-internal-docs/workflow-and-automations",
+              "sidebar": "docs"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "docs": {
+              "link": {
+                "path": "/another-internal-docs/",
+                "label": "Introduction"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

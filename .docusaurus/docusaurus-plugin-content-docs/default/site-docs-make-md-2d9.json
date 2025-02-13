@@ -1,0 +1,26 @@
+{
+  "id": "make",
+  "title": "Make",
+  "description": "[Add content for Make here]",
+  "source": "@site/docs/make.md",
+  "sourceDirName": ".",
+  "slug": "/make",
+  "permalink": "/another-internal-docs/make",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "make",
+    "title": "Make"
+  },
+  "sidebar": "docs",
+  "previous": {
+    "title": "Squarespace",
+    "permalink": "/another-internal-docs/squarespace"
+  },
+  "next": {
+    "title": "Campaign Monitor",
+    "permalink": "/another-internal-docs/campaign-monitor"
+  }
+}
